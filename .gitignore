@@ -1,0 +1,7 @@
+yalp-header-service/
+yalp-reviews-service/
+yalp-gallery-service/
+.DS_Store
+npm
+npm-debug.log
+node_modules/
